@@ -9,7 +9,7 @@ ABOUT ME :
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on MERN Stack Project
 - 💬 Ask me about DSA
-- 📫 How to reach me: <a href="">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ritweek-raj-341346197">LinkedIn</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: CricketLover
 
